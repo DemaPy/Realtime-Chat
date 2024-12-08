@@ -4,10 +4,10 @@
 project tutorial to understand how things works together.
 
 ### Tech stack
-> HTML
-> CSS
-> JavaScript
-> Socket.IO
-> NodeJs
-> SqlLite
+- HTML
+- CSS
+- JavaScript
+- Socket.IO
+- NodeJs
+- SqlLite
 
